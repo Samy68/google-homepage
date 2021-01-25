@@ -1,0 +1,21 @@
+nav {
+    text-align: right;
+}
+
+li {
+    display: inline;
+    list-style-type: none;    
+}
+
+a {
+    text-decoration: none;
+    padding: 0 5px;
+}
+
+.burger {
+    font-size: 200%;
+}
+
+.elt-block {
+    display: block;
+}
